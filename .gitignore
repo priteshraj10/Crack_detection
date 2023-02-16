@@ -9,5 +9,5 @@ Mask_RCNN/
 dataset/
 coco_mask/
 
-mask_rcnn_coco.h5
+coco/mask/mask_rcnn_coco.h5
 
