@@ -6,8 +6,11 @@
 
 # Ignore directories
 Mask_RCNN/
+Mask_RCNN/*
 dataset/
+dataset/*
 coco_mask/
+coco_mask/*
 
 coco/mask/mask_rcnn_coco.h5
 
